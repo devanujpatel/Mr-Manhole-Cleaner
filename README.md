@@ -4,6 +4,7 @@
 <br>
 Building this Robo Arm was a great learning journey and my first step in robotics. The fairs which I participated in were remarkable. I built this project when I was in 9th grade (2019).
 And my partner in the fairs was my best friend, Hemkesh. 
+With this project we got selected for the National Level CBSE Science Exhibition. We also won the regional level Science exhibition organized by ITM.
 <h2>Purpose</h2>
 Though robots are very flexible when it comes to application. But to take part in fairs and exhibitions, my project had to have a purpose. So I gave a definite objective to it- eradicate manual scavenging.
 <h2>Manual Scavenging</h2>
