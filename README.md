@@ -36,11 +36,11 @@ Step one: Lower the arm in the sewer. In our case, it is done by the burette sta
 The initial position is the same as the intro image (the very first image of this document). Every green wooden batten is vertically aligned.<br>
 <br>
 Step two: The motor attached at the end of the primary arm extends the secondary arm.<br>
-<img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/edited/secondary%20stage%20edited.jpg" data-canonical- width="300" height="320"/><br>
+<img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/edited/secondary%20stage%20edited.jpg" data-canonical- width="300" height="300"/><br>
 Step three: The secondary servo motor (attached at the end of the secondary arm) rotates the pneumatic claws. And the air pump instills some pressure in the system for the claws to open and later close.<br>
-<img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/edited/final%20stage%20edited.jpg" data-canonical- width="300" height="320"/><br>
+<img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/edited/final%20stage%20edited.jpg" data-canonical- width="300" height="300"/><br>
 Step four: Return to the starting position by going backwards through all the steps.  Bring arm up and dispose of the waste.<br>
-<img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/edited/dispose%20stage%20edited.jpg" data-canonical- width="300" height="320"/><br>
+<img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/edited/dispose%20stage%20edited.jpg" data-canonical- width="300" height="300"/><br>
 <h2>Achievements</h2> 
 We participated in a total of three fairs, two of which were conducted by CBSE(Central Board of Secondary Education, India) in succession and selection.
 We had to rigorously prepare our speeches and presentation charts and other documents required by the fairs.
