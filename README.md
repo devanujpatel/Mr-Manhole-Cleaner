@@ -29,7 +29,8 @@ Except the electronics, all the materials used are upcycled.<br>
 <br>
 With such a level of upcycling, the cost of making the arm was minimal (around INR 3k). 
 <h2>Structure and Working</h2>
-The first one, the primary arm, is attached to the burette stand. It is responsible for lowering of the arm in the sewers. The primary servo motor attached at the end rotates the secondary arm. Following  a similar pattern, the pneumatic claws are also extended.
+<img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/images/scanned%20manhole%20cleaner%20line%20diagram.jpg" data-canonical- width="300" height="400" padding="20"/>------<img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/edited/components%20insight%20edited.jpg" data-canonical- width="320" height="400"/>
+The first one, the primary arm, is attached to the burette stand. It is responsible for lowering of the arm in the sewers. The primary servo motor attached at the end rotates the secondary arm. Following  a similar pattern, the pneumatic claws are also extended. 
 The motors have a capacity to rotate 180 degrees and provide flexibility to attain numerous positions. This allows it to clean at almost all angles. Here I have demonstrated only for the most extreme case i.e. when the waste is at the maximum possible position. Then further waste is to be extracted by entering through the next sewer and directed towards the last sewer.<br>
 <br>
 Step one: Lower the arm in the sewer. In our case, it is done by the burette stand.<br>
