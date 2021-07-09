@@ -19,12 +19,13 @@ I present my Robotic arm as a saviour to this distressing situation. I propose t
 The Arduino UNO R3 board is the brain of the Arm. Servo motors bring functionality and potentiometers are used to give input. Pneumatic claws are employed for grabbing the sewage.
 
 Except the electronics, all the materials used are upcycled.<br>
+<pre>
     •Green wooden battens- support the whole structure<br>
     •Sweet box- the control panel which shelters the Arduino board and the potentiometers<br>
     •Sponge- provides padding at several places<br>
     •Burette stand- for imitating the lowering process and holding the whole structure<br>
     •Lego- for the pneumatic claws<br>
-
+</pre>
 <img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/edited/controll%20panel%20edited.jpg" data-canonical- width="300" height="400" padding="20"/>------<img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/edited/components%20insight%20edited.jpg" data-canonical- width="320" height="400"/>
 <br>
 With such a level of upcycling, the cost of making the arm was minimal (around INR 3k). 
