@@ -15,7 +15,7 @@ The sadistic act of Manual scavenging is banned by law. But it is covertly pract
 <img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/images/manual scavenger.png" data-canonical- width="300" height="300"/>
 <br>
 I present my Robotic arm as a saviour to this distressing situation. I propose to send the Robotic arm down in the sewers and mechanically clean, not with a bare human hand, but with the help of metal and motors! I have tried to prototype what the real world technological solution would have been.
-<h2>Component’s Insight</h2>
+<h2>Components</h2>
 The Arduino UNO R3 board is the brain of the Arm. Servo motors bring functionality and potentiometers are used to give input. Pneumatic claws are employed for grabbing the sewage.
 
 Except the electronics, all the materials used are upcycled.<br>
