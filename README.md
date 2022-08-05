@@ -1,5 +1,5 @@
 # Mr-Manhole-Cleaner
-    •Meet my robotic arm which can be customized to undertake and conveniently accomplish any humanly impotent task.      
+    •Meet my robotic arm which can be customized to undertake and conveniently accomplish any difficult task.      
 <img src="https://github.com/devanujpatel/Mr-Manhole-Cleaner/blob/main/images/intro.jpg" data-canonical- width="320" height="400"/>
 <br>
 Building this Robo Arm was a great learning journey and my first step in robotics. The fairs which I participated in were remarkable. I built this project when I was in 9th grade (2019).
