@@ -52,7 +52,7 @@ We also got a trophy ... which we had to reluctantly give to our school for it t
 It was awesome to see our hard work fruit.
 
 ## Video Explanation
-[YouTube Video](https://youtu.be/FBlIGuHxOmA)<br>
+<h2>[Please click here to see my YouTube Video](https://youtu.be/FBlIGuHxOmA)<br><br></h2>
 ![2019-11-12-3](https://user-images.githubusercontent.com/69083626/183247909-8c984e03-b30f-4323-ac9c-24c7cf346984.JPG)
 
 
