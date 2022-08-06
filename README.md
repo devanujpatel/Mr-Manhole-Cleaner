@@ -53,7 +53,6 @@ It was awesome to see our hard work fruit.
 
 ## Video Explanation
 [YouTube Video](https://youtu.be/FBlIGuHxOmA)
-<a src="https://youtu.be/FBlIGuHxOmA"><h2>YouTube Video</h2></a>
 ![2019-11-12-3](https://user-images.githubusercontent.com/69083626/183247909-8c984e03-b30f-4323-ac9c-24c7cf346984.JPG)
 
 
